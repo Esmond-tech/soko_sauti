@@ -1,0 +1,6 @@
+pymongo
+python-dotenv
+google-generativeai
+africastalking
+flask
+
